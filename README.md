@@ -1,5 +1,6 @@
 ## EX-NO-6-PSEUDO-RANDOM-NUMBER
-
+# NAME:HARITHA SHREE
+# REG NO:212222230046
 ### AIM: 
 
 Implementation of Pseudorandom Number Generation Using Standard library
