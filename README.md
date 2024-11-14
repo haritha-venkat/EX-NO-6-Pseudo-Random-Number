@@ -1,4 +1,4 @@
-## EX-NO-6-Pseudo-Random-Number
+## EX-NO-6-PSEUDO-RANDOM-NUMBER
 
 ### AIM: 
 
